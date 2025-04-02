@@ -72,7 +72,6 @@ export class MapComponent implements OnInit {
         `${API_URL}${encodeURIComponent(this.searchText)}&key=${API_KEY}`
       );
       const data = await response.json();
-      console.log(data, 'lntlng');
       if (data.status !== 'OK' || data.results.length === 0) {
         alert('Location not found!');
         return;
