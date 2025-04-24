@@ -33,5 +33,5 @@ On small screens, the search bar is toggleable to save space.
 https://github.com/AjinkyaAshok/angular-map-web
 
 ## Deployed Using Vercel
-Live - [https://angular-map-web.vercel.app/](https://second-map-web.vercel.app/)
+Live - https://second-map-web.vercel.app/
 
